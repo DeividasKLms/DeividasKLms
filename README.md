@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeividasKLms
-- 👀 I’m interested in video games, somewhat tech, computers.
+- 👀 I’m interested in video games and kinda into tech.
 - 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
